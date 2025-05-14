@@ -2,7 +2,6 @@
 Test project for CodingFactory Seminars
 
 
-
 # **Requirements**
 
 ---
